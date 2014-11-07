@@ -33,11 +33,11 @@
 - - -
 
 > #### [Community server](#module-server)
-> | Information |  |
-> |-------------|-------------------------------------------------------------|
-> | Rust Server | rustpublic.net:28015 |
-> | Teamspeak 3 | ts3.rustpublic.net |
-> | Discussion | [/r/playrustpublic](http://www.reddit.com/r/playrustpublic) |
+> **Information:**
+>
+> * Server address: rustpublic.net:28015
+> * Teamspeak address: ts3.rustpublic.net
+> * Server subreddit: [/r/playrustpublic](http://www.reddit.com/r/playrustpublic)
 >
 > &nbsp;
 >
