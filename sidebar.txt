@@ -1,41 +1,69 @@
 - - -
 
 > #### [Welcome to /r/playrust](#module-generic)
-> * **Read the rules before posting!**
-> * FAQ
-> * Wiki
-> * #/r/playrust on freenode (IRC)
+> * **Read the [rules](/r/playrust/wiki/rules) before posting!**
+> * [FAQ](/r/playrust/wiki/faq)
+> * [#/r/playrust](http://webchat.freenode.net/?channels=/r/playrust) on freenode (IRC)
 
 - - -
 
 > #### [Subreddit Rules](#module-rules) 
 > **Do:**
 >
-> * Follow the [rediquette](http://www.reddit.com/wiki/reddiquette)
-> * Etc
+> * Abide the [reddit rules](/rules)
+> * Follow the [rediquette](/wiki/reddiquette)
+> * Check the [FAQ](/r/playrust/wiki/faq) before asking a question
+> * Post content directly related to Rust
+> * Mark your dong pictures NSFW accordingly
+> * Report offending posts or comments
 >
 > &nbsp;
 >
 > **Don't:**
 >
-> * Giveaways
-> * Memes
-> * Etc
+> * Advertise or discuss specific servers
+> * Post memes
+> * Post livestreams or giveaways
+> * Name and shame cheaters
+> 
+> &nbsp;
+>
+> For our full set of rules, please visit the [rules wiki page](/r/playrust/wiki/rules).
+
+- - -
+
+> #### [Community server](#module-server)
+> **Information:**
+>
+> Server address: rustpublic.net:28015
+> Teamspeak address: ts3.rustpublic.net
+> Server subreddit: /r/playrustpublic
 
 - - -
 
 > #### [Other Links](#module-links)
-> **Related Subreddits:**
+> **Official:**
 >
-> * [/r/survivalgaming](http://www.reddit.com/r/survivalgaming)
-> * Etc
+> * [Website](http://playrust.com)
+> * [Trello](http://trello.com/b/lG8jtz6v/rust-main)
+> * [Twitter Update Feed](https://twitter.com/RustUpdates)
+> * [Suggestion/Bug Reporting](http://support.facepunchstudios.com/feedback)
+> * [Facepunch Forums](http://facepunch.com/forumdisplay.php?f=415)
 >
 > &nbsp;
 >
-> **Official:**
+> **Official Subreddits:**
 >
-> * [Trello](http://trello.com/b/lG8jtz6v/rust-main)
-> * [Official Website](http://playrust.com)
-> * Etc
+> * /r/playrustpublic
+> * /r/playrustservers
+> * /r/playrustlol
+> * /r/playrustlfg
+> * /r/playrustcirclejerk
+>
+> &nbsp;
+>
+> **Related Subreddits:**
+>
+> * /r/survivalgaming
 
 - - -
