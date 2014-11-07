@@ -35,9 +35,13 @@
 > #### [Community server](#module-server)
 > **Information:**
 >
-> Server address: rustpublic.net:28015
-> Teamspeak address: ts3.rustpublic.net
-> Server subreddit: /r/playrustpublic
+> * Server address: rustpublic.net:28015
+> * Teamspeak address: ts3.rustpublic.net
+> * Server subreddit: /r/playrustpublic
+>
+> &nbsp;
+>
+> *Donated by [initialservers.com](http://www.initialservers.com/)*
 
 - - -
 
