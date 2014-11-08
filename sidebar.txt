@@ -10,11 +10,10 @@
 > #### [Subreddit Rules](#module-rules) 
 > **Do:**
 >
-> * Abide the [reddit rules](/rules)
-> * Follow the [rediquette](/wiki/reddiquette)
+> * Follow the [reddit rules](/rules) & [reddiquette](/wiki/reddiquette)
 > * Check the [FAQ](/r/playrust/wiki/faq) before asking a question
 > * Post content directly related to Rust
-> * Mark your dong pictures NSFW accordingly
+> * Mark your dong pictures NSFW
 > * Report offending posts or comments
 >
 > &nbsp;
@@ -32,12 +31,13 @@
 
 - - -
 
-> #### [Community server](#module-server)
-> **Information:**
->
-> * Server address: rustpublic.net:28015
-> * Teamspeak address: ts3.rustpublic.net
-> * Server subreddit: [/r/playrustpublic](http://www.reddit.com/r/playrustpublic)
+> #### [Community Server](#module-server)
+> **Server address:**
+> rustpublic.net:28015
+> *Teamspeak address:**
+> ts3.rustpublic.net
+> **Server subreddit:**
+> /r/playrustpublic
 >
 > &nbsp;
 >
@@ -56,13 +56,12 @@
 >
 > &nbsp;
 >
-> **Official Subreddits:**
+> **Rust Subreddits:**
 >
 > * /r/playrustpublic
 > * /r/playrustservers
 > * /r/playrustlol
 > * /r/playrustlfg
-> * /r/playrustcirclejerk
 >
 > &nbsp;
 >
