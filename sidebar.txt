@@ -32,11 +32,13 @@
 - - -
 
 > #### [Community Server](#module-server)
-> **Server address:**
+> **Information:**
+>
+> * **Server address:**
 > rustpublic.net:28015
-> *Teamspeak address:**
+> * **Teamspeak address:**
 > ts3.rustpublic.net
-> **Server subreddit:**
+> * **Server subreddit:**
 > /r/playrustpublic
 >
 > &nbsp;
