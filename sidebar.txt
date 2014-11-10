@@ -27,7 +27,7 @@
 > 
 > &nbsp;
 >
-> **Click [here](/r/playrust/wiki/rules) for our full rules.**
+> `[Read More](/r/playrust/wiki/rules)`
 
 - - -
 
@@ -36,14 +36,16 @@
 >
 > * **Server address:**
 > rustpublic.net:28015
+> &nbsp;
 > * **Teamspeak address:**
 > ts3.rustpublic.net
+> &nbsp;
 > * **Server subreddit:**
 > /r/playrustpublic
 >
 > &nbsp;
 >
-> *Donated by [initialservers.com](http://www.initialservers.com/)*
+> Server donated by [initialservers.com](http://www.initialservers.com/)
 
 - - -
 
