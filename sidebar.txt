@@ -31,16 +31,20 @@
 
 - - -
 
-> #### [Community Server](#module-server)
+> #### [Community Rust Server](#module-server)
 > **Information:**
 >
-> * **Server address:**
+> * **Server Address:**
 > rustpublic.net:28015
+>
 > &nbsp;
-> * **Teamspeak address:**
+>
+> * **Teamspeak Address:**
 > ts3.rustpublic.net
+>
 > &nbsp;
-> * **Server subreddit:**
+>
+> * **Server Subreddit:**
 > /r/playrustpublic
 >
 > &nbsp;
