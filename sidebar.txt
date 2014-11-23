@@ -1,3 +1,14 @@
+1. Filters ↓
+2. [All](http://www.reddit.com/r/playrustcss)
+3. [Discussion](http://di.reddit.com/r/playrustcss/#di)
+4. [Question](http://qu.reddit.com/r/playrustcss/#qu)
+5. [Suggestion](http://sg.reddit.com/r/playrustcss/#sg)
+6. [Support](http://sp.reddit.com/r/playrustcss/#sp)
+7. [News](http://nw.reddit.com/r/playrustcss/#nw)
+8. [Meta](http://me.reddit.com/r/playrustcss/#me)
+9. [Image](http://im.reddit.com/r/playrustcss/#im)
+10. [Video](http://vd.reddit.com/r/playrustcss/#vd)
+
 - - -
 
 > #### [Welcome to /r/playrust](#module-generic)
@@ -77,18 +88,5 @@
 > **Related Subreddits:**
 >
 > * /r/survivalgaming
-
-- - -
-
->* Filters
->* [All](http://www.reddit.com/r/playrustcss)
->* [Discussion](http://di.reddit.com/r/playrustcss/#di)
->* [Question](http://qu.reddit.com/r/playrustcss/#qu)
->* [Suggestion](http://sg.reddit.com/r/playrustcss/#sg)
->* [Support](http://sp.reddit.com/r/playrustcss/#sp)
->* [News](http://nw.reddit.com/r/playrustcss/#nw)
->* [Meta](http://me.reddit.com/r/playrustcss/#me)
->* [Image](http://im.reddit.com/r/playrustcss/#im)
->* [Video](http://vd.reddit.com/r/playrustcss/#vd)
 
 - - -
