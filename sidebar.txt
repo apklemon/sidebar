@@ -76,12 +76,18 @@
 >
 > &nbsp;
 >
+> **Useful Links:**
+>
+> * [Rustafied](http://rustafied.com) - Updates/Guides
+> 
+> &nbsp;
+>
 > **Rust Subreddits:**
 >
-> * /r/playrustpublic
 > * /r/playrustservers
 > * /r/playrustlol
 > * /r/playrustlfg
+> * /r/playrustcirclejerk
 >
 > &nbsp;
 >
