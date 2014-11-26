@@ -84,6 +84,7 @@
 >
 > **Rust Subreddits:**
 >
+> * /r/playrustpublic
 > * /r/playrustservers
 > * /r/playrustlol
 > * /r/playrustlfg
