@@ -69,7 +69,7 @@
 > **Official:**
 >
 > * [Website](http://playrust.com)
-> * [Trello](http://trello.com/b/lG8jtz6v/rust-main)
+> * [Trello](https://trello.com/playrust)
 > * [Twitter Update Feed](https://twitter.com/RustUpdates)
 > * [Suggestion/Bug Reporting](http://support.facepunchstudios.com/feedback)
 > * [Facepunch Forums](http://facepunch.com/forumdisplay.php?f=415)
