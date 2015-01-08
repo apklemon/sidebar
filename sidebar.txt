@@ -78,8 +78,9 @@
 >
 > **Useful Links:**
 >
-> * [Rustafied](http://rustafied.com) - Updates/Guides
+> * [Rustafied](http://rustafied.com)
 > * [RustGuide.info](http://rustguide.info/)
+> * [RustGuide Release Notes](http://rustguide.info/misc/notes/)
 > 
 > &nbsp;
 >
