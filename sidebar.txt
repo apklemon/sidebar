@@ -73,6 +73,8 @@
 > * [Twitter Update Feed](https://twitter.com/RustUpdates)
 > * [Suggestion/Bug Reporting](http://support.facepunchstudios.com/feedback)
 > * [Facepunch Forums](http://facepunch.com/forumdisplay.php?f=415)
+> * [Jenkins - Build status](http://jenkins.facepunchstudios.com/view/Rust/)
+> * [Mind map](http://mind42.com/mindmap/7abd1334-d170-42e7-b869-f74010b9b143)
 >
 > &nbsp;
 >
