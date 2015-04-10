@@ -31,7 +31,8 @@
 >
 > **Don't:**
 >
-> * Advertise or discuss specific servers
+> * Make low effort posts to advertise specific servers
+> * Post admin abuse/server complaints 
 > * Post memes
 > * Post "Looking for group" posts
 > * Post livestreams or giveaways
@@ -47,12 +48,12 @@
 > **Information:**
 >
 > * **Server Address:**
-> rustpublic.net:28015
+> rustpublic.net:28016
 >
 > &nbsp;
 >
 > * **Teamspeak Address:**
-> *To be announced*
+> ts3.rustpublic.net:9437
 >
 > &nbsp;
 >
@@ -61,7 +62,7 @@
 >
 > &nbsp;
 >
-> Donated by [initialservers.com](https://initialservers.com/whmcs/aff.php?aff=042)
+> Powered by [GameServers](http://www.gameservers.com/?ref=1658963)
 
 - - -
 
