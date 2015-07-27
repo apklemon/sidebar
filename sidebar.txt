@@ -35,7 +35,7 @@
 > * Post admin abuse/server complaints 
 > * Post memes
 > * Post "Looking for group" posts
-> * Post livestreams or giveaways
+> * Post livestreams or giveaways.
 > * Name and shame cheaters
 > 
 > &nbsp;
@@ -48,7 +48,8 @@
 > **Information:**
 >
 > * **Server Address:**
-> rustpublic.net:28016
+>  * Rustpublic.net:28016 (East)
+>  * 8.3.5.106:28036 (West)
 >
 > &nbsp;
 >
@@ -81,9 +82,11 @@
 >
 > **Useful Links:**
 >
+> * [Drostan PRP Radio](http://mixlr.com/drostan/)
 > * [Rustafied](http://rustafied.com)
 > * [RustGuide.info](http://rustguide.info/)
 > * [RustGuide Release Notes](http://rustguide.info/misc/notes/)
+> * [Weapons & Item Stats](https://docs.google.com/spreadsheets/d/13bsYdwNoYiBO0yGdBknNgMsMUYVvLy22Lq668jZMoCs/edit?usp=sharing)
 > 
 > &nbsp;
 >
@@ -91,6 +94,7 @@
 >
 > * /r/playrustpublic
 > * /r/playrustservers
+> * /r/playrustadmin
 > * /r/playrustlol
 > * /r/playrustlfg
 > * /r/playrustcirclejerk
