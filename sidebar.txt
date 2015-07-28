@@ -13,33 +13,26 @@
 
 > #### [Welcome to /r/playrust](#module-generic)
 > * **Read the [rules](/r/playrust/wiki/rules) before posting!**
-> * [FAQ](/r/playrust/wiki/faq)
+> * Follow the [reddit rules](/rules) & [reddiquette](/wiki/reddiquette)
+> * [Frequently asked questions](/r/playrust/wiki/faq)
 > * [#/r/playrust](http://webchat.freenode.net/?channels=/r/playrust) on freenode (IRC)
 
 - - -
 
 > #### [Subreddit Rules](#module-rules) 
-> **Do:**
 >
-> * Follow the [reddit rules](/rules) & [reddiquette](/wiki/reddiquette)
-> * Check the [FAQ](/r/playrust/wiki/faq) before asking a question
-> * Post content directly related to Rust
-> * Mark your dong pictures NSFW
-> * Report offending posts or comments
->
-> &nbsp;
->
-> **Don't:**
->
-> * Make low effort posts to advertise specific servers
-> * Post admin abuse/server complaints 
-> * Post memes
-> * Post "Looking for group" posts
-> * Post livestreams or giveaways
-> * Name and shame cheaters
+> 1. Post content directly related to Rust
+> 2. Mark your content NSFW if needed
+> 3. No server advertisements
+> 4. No admin abuse/server complaints 
+> 5. No memes/image macros
+> 7. No "Looking for group" posts
+> 8. No livestreams or giveaways
+> 9. Don't name and shame cheaters
 > 
 > &nbsp;
 >
+> Please report offending posts/comments.  
 > [Click here](/r/playrust/wiki/rules) for our full rules.
 
 - - -
