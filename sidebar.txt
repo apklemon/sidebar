@@ -64,7 +64,7 @@
 > **Official:**
 >
 > * [Website](http://playrust.com)
-> * [Trello](https://trello.com/playrust)
+> * [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/1371850)
 > * [Twitter Update Feed](https://twitter.com/RustUpdates)
 > * [Suggestion/Bug Reporting](http://support.facepunchstudios.com/feedback)
 > * [Facepunch Forums](http://facepunch.com/forumdisplay.php?f=415)
